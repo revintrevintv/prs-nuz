@@ -1,0 +1,18 @@
+# build outputs & binaries
+dist/
+*.gba
+*.sav
+*.srm
+*.sgm
+*.dmp
+*.map
+*.elf
+*.ups
+*.bps
+
+# local-only symbol map
+patch/symbols.inc
+
+# OS cruft
+.DS_Store
+Thumbs.db
